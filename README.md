@@ -1,3 +1,3 @@
-# Pillow-Mart-Website
+# Pillow Mart Website
 
 Творческий проект
